@@ -5,6 +5,8 @@ Iqualia::Application.routes.draw do
   match '/contact', 	:to => 'pages#contact'
   match '/about',	:to => 'pages#about'
   match '/help',	:to => 'pages#help'
+  match '/question',	:to => 'pages#question'
+  match '/answer',	:to => 'pages#answer'
   root :to => 'pages#home'
 
   # The priority is based upon order of creation:

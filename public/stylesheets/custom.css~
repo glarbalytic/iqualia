@@ -1,9 +1,11 @@
 .container {
+	margin-left: auto;
+	margin-right: auto;
   width: 710px;
 }
 
 body {
-  background: #cff;
+  background: #FFFFFF;
 }
 
 header {
@@ -12,7 +14,6 @@ header {
 
 header img {
   padding:1em;
-  background: #fff;
 }
 
 footer {
@@ -99,7 +100,7 @@ a.signup_button {
   text-align: center;
   width: 190px;
   color: #fff;
-  background: #006400;
+  background: #BF2C2C;
   font-size: 150%
   font-weight: bold;
   padding: 20px;
@@ -126,7 +127,7 @@ td.main {
 }
 
 td.sidebar {
-  width: 40%;
+  width: 30%;
   padding: 1em;
   vertical-align: top;
   background: #ffc;

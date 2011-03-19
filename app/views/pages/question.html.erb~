@@ -1,0 +1,5 @@
+
+<%= link_to "What is IQualia?", answer_path %>
+
+<hr align="left" width="500" /><textarea name="qualia_answer" rows="10" cols="70"></textarea>
+<hr align="left" width="0" /><div style="text-align: center"><%= link_to "Submit Answer", signup_path, :class => "signup_button round" %></div>

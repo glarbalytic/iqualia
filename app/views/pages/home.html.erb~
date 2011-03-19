@@ -1,0 +1,8 @@
+<div style="text-align: center">
+
+<br/>
+<b/>
+
+
+<%= link_to "Sign up now!", signup_path, :class => "signup_button round" %>
+</div>

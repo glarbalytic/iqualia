@@ -1,0 +1,5 @@
+    <p>
+      It is the site you come to when you need answers.
+    </p>
+    <%= link_to "Agree", signup_path, :class => "signup_button round" %>
+    <%= link_to "Disagree", signup_path, :class => "signup_button round" %></div>
